@@ -34,8 +34,9 @@
 
 - **Chronic Kidney Disease Prediction using Machine Learning**  [[Project]](https://github.com/ashraf-ul-alam-amit/CKD)
 - **Maternal and Child Health Care**  [[Website]](https://github.com/ashraf-ul-alam-amit/Maternal_Care) 
+<!--
 - **RSMS: Retail Store Management System**  [[Project]](https://github.com/ashraf-ul-alam-amit/Retail-Store-Management-System)
-- **e-Doctor's Appointment**  [[Project]](https://github.com/ashraf-ul-alam-amit/eDoctor-sAppointment)
+- **e-Doctor's Appointment**  [[Project]](https://github.com/ashraf-ul-alam-amit/eDoctor-sAppointment) -->
 
 ## Technical Skills and Interests
 
