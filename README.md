@@ -39,11 +39,11 @@
 
 ## Technical Skills and Interests
 
-**Research Areas**: Computer Vision, Domain Adaptation, Object Detection, NLP, LLM, Transfer & Conventional Learning
-**Programming**: Python, C, C++, Java, PHP
-**Frameworks**: TensorFlow, Scikit-Learn, Keras, OpenCV, PyTorch, Bootstrap
-**Web & Databases**: HTML, CSS, PHP, MySQL
-**Technologies**: Flask, Android Studio, LaTeX, Git
+- **Research Areas**: Computer Vision, Domain Adaptation, Object Detection, NLP, LLM, Transfer & Conventional Learning
+- **Programming**: Python, C, C++, Java, PHP
+- **Frameworks**: TensorFlow, Scikit-Learn, Keras, OpenCV, PyTorch, Bootstrap
+- **Web & Databases**: HTML, CSS, PHP, MySQL
+- **Technologies**: Flask, Android Studio, LaTeX, Git
 
 
 
