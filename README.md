@@ -32,6 +32,7 @@
 
 ## Projects
 
+- **Cycle Thief Detection from Live CCTV Footage using YOLOv5 and DeepSORT**  [[Project]]([https://github.com/ashraf-ul-alam-amit/CKD](https://github.com/ashraf-ul-alam-amit/cycle_theif))
 - **Chronic Kidney Disease Prediction using Machine Learning**  [[Project]](https://github.com/ashraf-ul-alam-amit/CKD)
 - **Maternal and Child Health Care**  [[Website]](https://github.com/ashraf-ul-alam-amit/Maternal_Care) 
 <!--
