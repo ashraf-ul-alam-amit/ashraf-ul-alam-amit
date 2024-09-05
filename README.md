@@ -1,8 +1,8 @@
 ## Hello, This is Ashraf Ul Alam! 👋
 
-## EDUCATION
-- *B.Sc in Computer Science & Engineering*
-  - Rajshahi University of Engineering & Technology (RUET), Rajshahi-6204, Bangladesh
+## EDUCATION 
+- *B.Sc in Computer Science & Engineering* <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+  - Rajshahi University of Engineering & Technology (RUET)  
   - *CGPA:* 3.44 out of 4.00
  <!-- - *Duration:* 2019-2024
 
