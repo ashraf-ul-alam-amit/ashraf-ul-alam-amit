@@ -35,8 +35,8 @@
 
 ## Undergraduate Thesis
 
-**KD-UDA: Knowledge Distillation-based Unsupervised Domain Adaptation for Improved Medical Image Segmentation**  
-- Developed the KD-UDA framework, using Knowledge Distillation to enhance segmentation model performance on diverse medical imaging datasets without labeled data from new domains, significantly improving performances for both 2D retinal fundus images and 3D MRI data (BraTS2021).
+**KD-UDA: Knowledge Distillation-based Unsupervised Domain Adaptation for Improved Medical Image Segmentation**  [[More...](https://github.com/ashraf-ul-alam-amit/KD-UDA)]
+- Developed the KD-UDA framework, using Knowledge Distillation to enhance segmentation model performance on diverse medical imaging datasets without labeled data from new domains, significantly improving performances for both 2D retinal fundus images and 3D MRI data (BraTS2021). 
 
 
 
