@@ -49,9 +49,19 @@
 - **Web & Databases**: HTML, CSS, PHP, MySQL
 - **Technologies**: Flask, Android Studio, LaTeX, Git
 
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> <img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" /> <img align="left" alt="Scikit-Learn" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png" /> <img align="left" alt="Keras" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/keras/keras.png" /> <img align="left" alt="OpenCV" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png" /> <img align="left" alt="PyTorch" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png" /><img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" /> <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" /> <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" /> <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />  <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" /> <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" /> <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" /> <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" /> <img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" /> <img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/android-studio/android-studio.png" /> <img align="left" alt="LaTeX" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/latex/latex.png" /> <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" /> <br /> <br /> <hr />
+
 
 
 <!--
+### GitHub Stats
+
+![Ashraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashraf-ul-alam-amit&count_private=true)
+![Ashraf's GitHub Streak Stats](https://github-readme-streak-stats-peach.vercel.app?user=ashraf-ul-alam-amit)
+
+
+
+
 **ashraf-ul-alam-amit/ashraf-ul-alam-amit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
