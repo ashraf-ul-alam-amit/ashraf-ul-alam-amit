@@ -4,8 +4,8 @@
 - *B.Sc in Computer Science & Engineering*
   - Rajshahi University of Engineering & Technology (RUET), Rajshahi-6204, Bangladesh
   - *CGPA:* 3.44 out of 4.00
-  - *Duration:* 2019-2024
-<!--
+ <!-- - *Duration:* 2019-2024
+
 - *Higher Secondary School Certificate (HSC)*
   - Dhaka Residential Model College, Dhaka, Bangladesh
   - *GPA:* 5.00 out of 5.00
@@ -24,12 +24,6 @@
 - **Advancing Ophthalmology through Transfer Learning and Channel-wise Attention for Retinal Disease Classification**  
   *ICEEICT 2024 | IEEE Xplore* [DOI: 10.1109/ICEEICT62016.2024.10534342](https://doi.org/10.1109/ICEEICT62016.2024.10534342)  
 
-## Undergraduate Thesis
-
-**KD-UDA: Knowledge Distillation-based Unsupervised Domain Adaptation for Improved Medical Image Segmentation**  
-- Developed the KD-UDA framework, using Knowledge Distillation to enhance segmentation model performance on diverse medical imaging datasets without labeled data from new domains, significantly improving performances for both 2D retinal fundus images and 3D MRI data (BraTS2021).
-
-
 ## Projects
 
 - **Cycle Thief Detection from Live CCTV Footage using YOLOv5 and DeepSORT**  [[Project]](https://github.com/ashraf-ul-alam-amit/cycle_theif)
@@ -38,6 +32,14 @@
 <!--
 - **RSMS: Retail Store Management System**  [[Project]](https://github.com/ashraf-ul-alam-amit/Retail-Store-Management-System)
 - **e-Doctor's Appointment**  [[Project]](https://github.com/ashraf-ul-alam-amit/eDoctor-sAppointment) -->
+
+## Undergraduate Thesis
+
+**KD-UDA: Knowledge Distillation-based Unsupervised Domain Adaptation for Improved Medical Image Segmentation**  
+- Developed the KD-UDA framework, using Knowledge Distillation to enhance segmentation model performance on diverse medical imaging datasets without labeled data from new domains, significantly improving performances for both 2D retinal fundus images and 3D MRI data (BraTS2021).
+
+
+
 
 ## Technical Skills and Interests
 
