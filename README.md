@@ -20,7 +20,7 @@
 - **Optic Disc and Cup Segmentation via Enhanced U-Net with Residual and Attention Mechanisms**  
   *ICEEICT 2024 | IEEE Xplore* [DOI: 10.1109/ICEEICT62016.2024.10534436](https://doi.org/10.1109/ICEEICT62016.2024.10534436)  
 - **BanglaOngko: A New Dataset for Accurate Bengali Mathematical Expression Detection Utilizing YOLOv8 Architecture**  
-  *BIM 2023 | Taylor and Francis*  
+  *BIM 2023 | Taylor and Francis*  [Project](https://github.com/ashraf-ul-alam-amit/BanglaOngko)
 - **Advancing Ophthalmology through Transfer Learning and Channel-wise Attention for Retinal Disease Classification**  
   *ICEEICT 2024 | IEEE Xplore* [DOI: 10.1109/ICEEICT62016.2024.10534342](https://doi.org/10.1109/ICEEICT62016.2024.10534342)  
 
