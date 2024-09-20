@@ -46,7 +46,8 @@ Always on the lookout for innovative opportunities to explore and collaborate. L
 - **Optimizing Feature Representation of Deep Neural Networks for Enhanced Deepfake Detection** [[Project]](https://github.com/ashraf-ul-alam-amit/Deepfake-Image-Detection)  
 - **Chronic Kidney Disease Prediction using Machine Learning**  [[Project]](https://github.com/ashraf-ul-alam-amit/cycle_theif)
 - **Cardiotocogram Data Analysis for Fetal Health Classification Using Machine Learning** [[Project]](https://github.com/ashraf-ul-alam-amit/fetal_health) [[Slide]](https://github.com/ashraf-ul-alam-amit/fetal_health/blob/master/fetal_health.pdf)  
-- **Maternal and Child Health Care**  [[Project]](https://github.com/ashraf-ul-alam-amit/Maternal_Care) 
+- **Maternal and Child Health Care**  [[Project]](https://github.com/ashraf-ul-alam-amit/Maternal_Care)
+- **6 Bit CPU** [[Project]](https://github.com/ashraf-ul-alam-amit/6-Bit-CPU)
 - **RSMS: Retail Store Management System**  [[Project]](https://github.com/ashraf-ul-alam-amit/Retail-Store-Management-System)
 - **e-Doctor's Appointment**  [[Project]](https://github.com/ashraf-ul-alam-amit/eDoctor-sAppointment)
 
