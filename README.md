@@ -42,7 +42,7 @@ Always on the lookout for innovative opportunities to explore and collaborate. L
 
 ## Projects
 
-- **Cycle Thief Detection from Live CCTV Footage using YOLOv5 and DeepSORT**  [[Project]](https://github.com/ashraf-ul-alam-amit/cycle_theif)
+- **Cycle Thief Detection from Realtime Footage using YOLOv5 and DeepSORT**  [[Project]](https://github.com/ashraf-ul-alam-amit/cycle_theif)
 - **Optimizing Feature Representation of Deep Neural Networks for Enhanced Deepfake Detection** [[Project]](https://github.com/ashraf-ul-alam-amit/Deepfake-Image-Detection)  
 - **Chronic Kidney Disease Prediction using Machine Learning**  [[Project]](https://github.com/ashraf-ul-alam-amit/cycle_theif)
 - **Cardiotocogram Data Analysis for Fetal Health Classification Using Machine Learning** [[Project]](https://github.com/ashraf-ul-alam-amit/fetal_health) [[Slide]](https://github.com/ashraf-ul-alam-amit/fetal_health/blob/master/fetal_health.pdf)  
