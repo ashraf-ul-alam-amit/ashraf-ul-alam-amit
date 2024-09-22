@@ -8,12 +8,12 @@ My diverse projects range from optimizing neural networks for healthcare to addr
 Always on the lookout for innovative opportunities to explore and collaborate. Let’s connect and build something innovative together!
 
 ---
-
+ <!--
 ## EDUCATION 
 - *B.Sc in Computer Science & Engineering* <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   - Rajshahi University of Engineering & Technology (RUET)  
   - *CGPA:* 3.44 out of 4.00
- <!-- - *Duration:* 2019-2024
+  - *Duration:* 2019-2024
 
 - *Higher Secondary School Certificate (HSC)*
   - Dhaka Residential Model College, Dhaka, Bangladesh
