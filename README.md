@@ -6,8 +6,8 @@ My diverse projects range from optimizing neural networks for healthcare to addr
 
 Always on the lookout for innovative opportunities to explore and collaborate. Let’s connect and build something innovative together!
 
----
  <!--
+ ---
 ## EDUCATION 
 - *B.Sc in Computer Science & Engineering* <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   - Rajshahi University of Engineering & Technology (RUET)  
@@ -22,7 +22,7 @@ Always on the lookout for innovative opportunities to explore and collaborate. L
   - Matlabgonj J.B. Pilot High School, Chandpur, Bangladesh
   - *GPA:* 5.00 out of 5.00  -->
 
-
+---
 ## Publications
 
 - **Optic Disc and Cup Segmentation via Enhanced U-Net with Residual and Attention Mechanisms**  
@@ -32,17 +32,18 @@ Always on the lookout for innovative opportunities to explore and collaborate. L
 - **Advancing Ophthalmology through Transfer Learning and Channel-wise Attention for Retinal Disease Classification**  
   *ICEEICT 2024 | IEEE Xplore* [DOI: 10.1109/ICEEICT62016.2024.10534342](https://doi.org/10.1109/ICEEICT62016.2024.10534342)  
 
+
+<!-- 
+---
 ## Undergraduate Thesis
-
-**KD-UDA: Knowledge Distillation-based Unsupervised Domain Adaptation for Improved Medical Image Segmentation**  [[More](https://github.com/ashraf-ul-alam-amit/KD-UDA)]
-<!-- - Developed the KD-UDA framework, using Knowledge Distillation to enhance segmentation model performance on diverse medical imaging datasets without labeled data from new domains, significantly improving performances for both 2D retinal fundus images and 3D MRI data (BraTS2021). -->
+- Developed the KD-UDA framework, using Knowledge Distillation to enhance segmentation model performance on diverse medical imaging datasets without labeled data from new domains, significantly improving performances for both 2D retinal fundus images and 3D MRI data (BraTS2021). -->
 
 
-
+---
 ## Projects
-
+- **KD-UDA: Knowledge Distillation-based Unsupervised Domain Adaptation for Improved Medical Image Segmentation**  [[Thesis](https://github.com/ashraf-ul-alam-amit/KD-UDA)] 
 - **Cycle Thief Detection from Realtime Footage using YOLOv5 and DeepSORT**  [[Project]](https://github.com/ashraf-ul-alam-amit/cycle_theif)
-- **Optimizing Feature Representation of Deep Neural Networks for Enhanced Deepfake Detection** [[Project]](https://github.com/ashraf-ul-alam-amit/Deepfake-Image-Detection)  
+- **Optimizing Feature Representation of Deep Neural Networks for Enhanced Deepfake Detection** [[Project]](https://github.com/ashraf-ul-alam-amit/Deepfake-Image-Detection) [[Poster] ](https://github.com/ashraf-ul-alam-amit/Deepfake-Image-Detection/blob/master/poster.pdf)
 - **Chronic Kidney Disease Prediction using Machine Learning**  [[Project]](https://github.com/ashraf-ul-alam-amit/cycle_theif)
 - **Cardiotocogram Data Analysis for Fetal Health Classification Using Machine Learning** [[Project]](https://github.com/ashraf-ul-alam-amit/fetal_health) [[Slide]](https://github.com/ashraf-ul-alam-amit/fetal_health/blob/master/fetal_health.pdf)  
 - **Maternal and Child Health Care**  [[Project]](https://github.com/ashraf-ul-alam-amit/Maternal_Care)
