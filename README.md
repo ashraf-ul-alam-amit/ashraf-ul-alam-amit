@@ -5,7 +5,7 @@ I’m ***Ashraf***, a researcher passionate about solving real-world problems th
 My diverse projects range from optimizing neural networks for healthcare to addressing OCR challenges with complex scripts like Bengali. Notable projects include *Real-time Cycle Thief Detection* using YOLOv5 and DeepSORT and advanced medical image segmentation with *knowledge distillation*. Currently, I’m exploring **Natural Language Processing and Large Language Models**, finding them both fascinating and full of potential. -->
 
 Always on the lookout for innovative opportunities to explore and collaborate. Let’s connect and build something innovative together!
-
+For more information about my work, please visit my [website](https://ashraf-ul-alam-amit.github.io/).
  <!--
  ---
 ## EDUCATION 
