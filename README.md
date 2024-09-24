@@ -1,5 +1,4 @@
 ## Hi There!👋
----
 
 I’m ***Ashraf***, a researcher passionate about solving real-world problems through AI. With an undergraduate degree in ***Computer Science and Engineering*** from Rajshahi University of Engineering & Technology ***(RUET)***, my research work spans **Computer Vision, Medical Imaging, and Unsupervised Domain Adaptation**. 
 <!--I've developed advanced frameworks for medical image segmentation and classification and worked with state-of-the-art models to enhance AI applications.
