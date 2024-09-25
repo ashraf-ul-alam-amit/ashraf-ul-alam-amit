@@ -48,6 +48,7 @@ For more information about my work, please visit my [website](https://ashraf-ul-
 - **Chronic Kidney Disease Prediction using Machine Learning**  [[Project]](https://github.com/ashraf-ul-alam-amit/cycle_theif)
 - **Cardiotocogram Data Analysis for Fetal Health Classification Using Machine Learning** [[Project]](https://github.com/ashraf-ul-alam-amit/fetal_health) [[Slide]](https://github.com/ashraf-ul-alam-amit/fetal_health/blob/master/fetal_health.pdf)  
 - **Maternal and Child Health Care**  [[Project]](https://github.com/ashraf-ul-alam-amit/Maternal_Care)
+- **Implementation and Analysis of Neural Networks for Liver Disease Diagnosis [[Project]](https://github.com/ashraf-ul-alam-amit/Study-on-Neural-Networks-for-Liver-Disease-Diagnosis)**  
 - **6 Bit CPU** [[Project]](https://github.com/ashraf-ul-alam-amit/6-Bit-CPU)
 - **RSMS: Retail Store Management System**  [[Project]](https://github.com/ashraf-ul-alam-amit/Retail-Store-Management-System)
 - **e-Doctor's Appointment**  [[Project]](https://github.com/ashraf-ul-alam-amit/eDoctor-sAppointment)
