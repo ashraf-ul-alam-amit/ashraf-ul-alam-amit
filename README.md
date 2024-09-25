@@ -6,7 +6,7 @@ My diverse projects range from optimizing neural networks for healthcare to addr
 
 Always on the lookout for innovative opportunities to explore and collaborate. Let’s connect and build something innovative together!
 
-For more information about my work, please visit my [website](https://ashraf-ul-alam-amit.github.io/).
+> **📝 Note:** For more information about my work, please visit my [website](https://ashraf-ul-alam-amit.github.io/).
  <!--
  ---
 ## EDUCATION 
