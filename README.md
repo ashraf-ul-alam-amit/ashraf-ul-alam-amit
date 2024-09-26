@@ -42,7 +42,7 @@ Always on the lookout for innovative opportunities to explore and collaborate. L
 
 ---
 ## Projects
-- **KD-UDA: Knowledge Distillation-based Unsupervised Domain Adaptation for Improved Medical Image Segmentation**  [[Thesis](https://github.com/ashraf-ul-alam-amit/KD-UDA)] 
+- **KD-UDA: Knowledge Distillation-based Unsupervised Domain Adaptation for Improved Medical Image Segmentation**  [[Thesis]](https://github.com/ashraf-ul-alam-amit/KD-UDA)
 - **Cycle Thief Detection from Realtime Footage using YOLOv5 and DeepSORT**  [[Project]](https://github.com/ashraf-ul-alam-amit/cycle_theif)
 - **Optimizing Feature Representation of Deep Neural Networks for Enhanced Deepfake Detection** [[Project]](https://github.com/ashraf-ul-alam-amit/Deepfake-Image-Detection) [[Poster] ](https://github.com/ashraf-ul-alam-amit/Deepfake-Image-Detection/blob/master/poster.pdf)
 - **Chronic Kidney Disease Prediction using Machine Learning**  [[Project]](https://github.com/ashraf-ul-alam-amit/cycle_theif)
