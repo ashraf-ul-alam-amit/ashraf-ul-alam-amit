@@ -26,12 +26,17 @@ Always on the lookout for innovative opportunities to explore and collaborate. L
 ---
 ## Publications
 
+### Journal:
+- **PRODIA: A Probability Distribution Alignment Framework for Unsupervised Domain Adaptation in Medical Image Segmentation**
+  *Computers in Biology and Medicine (Elsevier), Under Review*
+### Conferences:
 - **Optic Disc and Cup Segmentation via Enhanced U-Net with Residual and Attention Mechanisms**  
   *ICEEICT 2024 | IEEE Xplore* [DOI: 10.1109/ICEEICT62016.2024.10534436](https://doi.org/10.1109/ICEEICT62016.2024.10534436)  
+- **Advancing Ophthalmology through Transfer Learning and Channel-wise Attention for Retinal Disease Classification**  
+  *ICEEICT 2024 | IEEE Xplore* [DOI: 10.1109/ICEEICT62016.2024.10534342](https://doi.org/10.1109/ICEEICT62016.2024.10534342)
+### Book Chapter:
 - **BanglaOngko: A New Dataset for Accurate Bengali Mathematical Expression Detection Utilizing YOLOv8 Architecture**  
   *BIM 2023 | Taylor and Francis*  [Project](https://github.com/ashraf-ul-alam-amit/BanglaOngko)
-- **Advancing Ophthalmology through Transfer Learning and Channel-wise Attention for Retinal Disease Classification**  
-  *ICEEICT 2024 | IEEE Xplore* [DOI: 10.1109/ICEEICT62016.2024.10534342](https://doi.org/10.1109/ICEEICT62016.2024.10534342)  
 
 
 <!-- 
