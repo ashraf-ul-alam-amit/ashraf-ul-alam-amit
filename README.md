@@ -47,8 +47,8 @@ Always on the lookout for innovative opportunities to explore and collaborate. L
 
 ---
 ## Projects
-- **Phishing URL Classification with DistilBERT and LoRA** [[Project]](https://github.com/ashraf-ul-alam-amit/DistilBERT-Fine-Tuning-for-Phishing-Urls-Detection)
-- **Cyber Threat Report Summarization with FLAN-T5 and LoRA** [[Project]](https://github.com/ashraf-ul-alam-amit/FLAN-T5-Fine-Tuning-for-Cyber-Doc-Summarization)
+- **Parameter Efficient Fine-tuning of DistilBERT with LoRA for Phishing URL Detection** [[Project]](https://github.com/ashraf-ul-alam-amit/DistilBERT-Fine-Tuning-for-Phishing-Urls-Detection)
+- **Cyber Threat Report Summarization Using FLAN-T5 with LoRA Adaptation** [[Project]](https://github.com/ashraf-ul-alam-amit/FLAN-T5-Fine-Tuning-for-Cyber-Doc-Summarization)
 - **KD-UDA: Knowledge Distillation-based Unsupervised Domain Adaptation for Improved Medical Image Segmentation**  [[Thesis]](https://github.com/ashraf-ul-alam-amit/KD-UDA)
 - **Cycle Thief Detection from Realtime Footage using YOLOv5 and DeepSORT**  [[Project]](https://github.com/ashraf-ul-alam-amit/cycle_theif)
 - **NeuroSeg3D: 3D Attention U-Net for Accurate Brain Tumor Segmentation (BraTS 2021)** [[Project]](https://github.com/ashraf-ul-alam-amit/NeuroSeg3D)
