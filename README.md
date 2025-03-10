@@ -53,7 +53,7 @@ Always on the lookout for innovative opportunities to explore and collaborate. L
 - **Cycle Thief Detection from Realtime Footage using YOLOv5 and DeepSORT**  [[Project]](https://github.com/ashraf-ul-alam-amit/cycle_theif)
 - **NeuroSeg3D: 3D Attention U-Net for Accurate Brain Tumor Segmentation (BraTS 2021)** [[Project]](https://github.com/ashraf-ul-alam-amit/NeuroSeg3D)
 - **Optimizing Feature Representation of Deep Neural Networks for Enhanced Deepfake Detection** [[Project]](https://github.com/ashraf-ul-alam-amit/Deepfake-Image-Detection) [[Poster] ](https://github.com/ashraf-ul-alam-amit/Deepfake-Image-Detection/blob/master/poster.pdf)
-- **Chronic Kidney Disease Prediction using Machine Learning**  [[Project]](https://github.com/ashraf-ul-alam-amit/cycle_theif)
+- **Chronic Kidney Disease Prediction using Machine Learning**  [[Project]](github.com/ashraf-ul-alam-amit/CKD)
 - **Cardiotocogram Data Analysis for Fetal Health Classification Using Machine Learning** [[Project]](https://github.com/ashraf-ul-alam-amit/fetal_health) [[Slide]](https://github.com/ashraf-ul-alam-amit/fetal_health/blob/master/fetal_health.pdf)  
 - **Maternal and Child Health Care**  [[Project]](https://github.com/ashraf-ul-alam-amit/Maternal_Care)
 - **Implementation and Analysis of Neural Networks for Liver Disease Diagnosis [[Project]](https://github.com/ashraf-ul-alam-amit/Study-on-Neural-Networks-for-Liver-Disease-Diagnosis)**  
