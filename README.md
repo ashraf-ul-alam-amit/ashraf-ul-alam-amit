@@ -1,6 +1,12 @@
 ## Hi There!👋
 
-I’m ***Ashraf***, a researcher passionate about solving real-world problems through AI. With an undergraduate degree in ***Computer Science and Engineering*** from Rajshahi University of Engineering & Technology ***(RUET)***, my research work spans **Computer Vision, Medical Imaging, and Unsupervised Domain Adaptation**. 
+<!--
+I’m Ashraf, a researcher passionate about solving real-world problems through AI. With an undergraduate degree in *[Computer Science and Engineering](https://www.cse.ruet.ac.bd/)* from Rajshahi University of Engineering & Technology *[(RUET)](https://www.ruet.ac.bd/)*, my research work spans *[Computer Vision](https://github.com/ashraf-ul-alam-amit/BanglaOngko), [Medical Imaging](https://doi.org/10.1109/ICEEICT62016.2024.10534436),* and *[Unsupervised Domain Adaptation](https://github.com/ashraf-ul-alam-amit/KD-UDA)*. -->
+
+I’m Ashraf, a researcher passionate about solving real-world problems through AI and innovative technology. I hold a BSc in *[Computer Science and Engineering](https://www.cse.ruet.ac.bd/)* from *[RUET](https://www.ruet.ac.bd/)* and am currently pursuing a *[Master of Information Systems and Technology](https://www.curtin.edu.au/study/offering/course-pg-master-of-information-systems-and-technology--mc-mist/)* at Curtin University.
+
+My research work spans *[Computer Vision](https://github.com/ashraf-ul-alam-amit/BanglaOngko), [Medical Imaging](https://doi.org/10.1109/ICEEICT62016.2024.10534436),* and *[Unsupervised Domain Adaptation](https://github.com/ashraf-ul-alam-amit/KD-UDA)*, and I’m particularly excited about exploring how technology can be applied to organizational information systems and other real-world challenges.
+<!--🧠🚴‍♂️-->
 <!--I've developed advanced frameworks for medical image segmentation and classification and worked with state-of-the-art models to enhance AI applications.
 My diverse projects range from optimizing neural networks for healthcare to addressing OCR challenges with complex scripts like Bengali. Notable projects include *Real-time Cycle Thief Detection* using YOLOv5 and DeepSORT and advanced medical image segmentation with *knowledge distillation*. Currently, I’m exploring **Natural Language Processing and Large Language Models**, finding them both fascinating and full of potential. -->
 
